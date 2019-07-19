@@ -1,9 +1,7 @@
-JavaScript Jasmine Expect "toThrow" Demo
+JavaScript Jasmine "expectAsync" "toBeRejectedWith" Demo
 ========================================
 
-捕获并检查throw。
-
-注意：传入function reference，而不是直接调用它！
+捕获并检查async function的rejection。
 
 ```
 npm install
